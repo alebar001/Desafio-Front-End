@@ -1,4 +1,4 @@
-# Desafio-Front-end Dio
+# Desafio Front-End
 Criação de interface e-commerce usando React com Redux
 
 # Layout Gráfico
