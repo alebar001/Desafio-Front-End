@@ -1,4 +1,4 @@
-# E-COMMERCE
+# E-commerce
 Criação de interface e-commerce usando React com Redux
 
 # Layout Gráfico
