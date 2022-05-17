@@ -1,4 +1,4 @@
-# Desafio Front-End
+# E-COMMERCE
 Criação de interface e-commerce usando React com Redux
 
 # Layout Gráfico
